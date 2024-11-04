@@ -1,8 +1,4 @@
-﻿using System;
-using MathGame.Gameplay;
-using MathGame.Menu;
-
-namespace MathGame
+﻿namespace MathGame
 {
     public class MathGame
     {

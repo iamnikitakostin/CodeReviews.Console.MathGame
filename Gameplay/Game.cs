@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MathGame.RandomNumber;
-using MathGame.Menu;
-using System.Diagnostics;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.Diagnostics;
 
 namespace MathGame.Gameplay
 {
